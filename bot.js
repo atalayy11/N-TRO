@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('**Selam Canım Seni Takıldığım Sunucuya Bekliyorum** https://discord.gg/DKuSpuq ');
+    member.send('**Selam \nSeni Sohbet Oyun Ve Daha Fazlası...**\nhttps://discord.gg/DKuSpuq ');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
